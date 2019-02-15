@@ -8,3 +8,10 @@
 - Completed jQuery assignments on freecodecamp.
 - Started work on the Cybros-WebApp repository.
 - Made changes to index.html and index-2.html pages
+- Changes to other pages.
+
+## Week 3
+- Started learning node js.
+
+## Week 4
+- Changes to the website.
